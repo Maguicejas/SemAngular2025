@@ -15,12 +15,18 @@
 
 
 <ins>INFO PROYECTO Y DATOS DEL ALUMNO </ins>
+
   EXTRAS: Se consumió una API externa(MockAPI): https://667436d675872d0e0a95907d.mockapi.io/api/Preferencias
 
+
   **DATOS**
+  
    Nombre y apellido: Magalí Cejas Mazzocchi
+   
    DNI: 46.344.058
+   
    Email: magaliagustinacejas@gmail.com
+   
    Sede: Tandil
 
 
