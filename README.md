@@ -2,7 +2,7 @@
 
   La temática elegida para este proyecto fue: Beauty, una empresa dedicada a la comercialización de productos cosméticos.
 
-<ins>CONTENIDO DE LA PÁGINA </ins>
+### <ins>CONTENIDO DE LA PÁGINA </ins>
 
     Al navegar por la página se encontrara lo siguiente:
 
@@ -14,12 +14,12 @@
 
 
 
-## <ins>INFO PROYECTO Y DATOS DEL ALUMNO </ins>
+### <ins>INFO PROYECTO Y DATOS DEL ALUMNO </ins>
 
   EXTRAS: Se consumió una API externa(MockAPI) para utilizar un GET: https://667436d675872d0e0a95907d.mockapi.io/api/Preferencias
 
 
- ## **DATOS**
+ ### **DATOS**
   
    Nombre y apellido: Magalí Cejas Mazzocchi
    
