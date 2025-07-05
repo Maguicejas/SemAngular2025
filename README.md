@@ -14,12 +14,12 @@
 
 
 
-<ins>INFO PROYECTO Y DATOS DEL ALUMNO </ins>
+## <ins>INFO PROYECTO Y DATOS DEL ALUMNO </ins>
 
-  EXTRAS: Se consumió una API externa(MockAPI): https://667436d675872d0e0a95907d.mockapi.io/api/Preferencias
+  EXTRAS: Se consumió una API externa(MockAPI) para utilizar un GET: https://667436d675872d0e0a95907d.mockapi.io/api/Preferencias
 
 
-  **DATOS**
+ ## **DATOS**
   
    Nombre y apellido: Magalí Cejas Mazzocchi
    
