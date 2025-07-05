@@ -1,0 +1,16 @@
+<h5>CARRITO</h5>
+
+<div class="border border-2 border-light-subtle">
+
+    @for (product of cartList$ | async ; track product.name)
+    {
+        <ul>
+            <li>
+            {{product.name}} : {{product.quantity}}
+            </li>  
+        </ul>
+           
+    }
+ 
+    
+</div>
